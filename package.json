@@ -1,6 +1,6 @@
 {
-  "name": "@whisthub/agenda",
-  "version": "0.0.0",
+  "name": "@awatcloud/agenda",
+  "version": "0.1.0",
   "type": "module",
   "description": "Light weight job scheduler for Node.js",
   "exports": "./dist/index.js",
